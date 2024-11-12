@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MYFPS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\MYFPS\MYFPS\Intermediate\Build\Win64\x64\MYFPSEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYFPS\FPSGameMode.gen.cpp.obj"
+"D:\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYFPS\MYFPS.init.gen.cpp.obj"
+"D:\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYFPS\FPSGameMode.cpp.obj"
+"D:\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYFPS\MYFPS.cpp.obj"
+"D:\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYFPS\Default.rc2.res"
+/OUT:"D:\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\MYFPS\UnrealEditor-MYFPS.lib"

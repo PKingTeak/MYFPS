@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\MYFPS\\MYFPS\\Source\\MYFPS\\MYFPS.Build.cs",
+		"D:\\MYFPS\\MYFPS\\Source\\MYFPS.Target.cs",
+		"D:\\MYFPS\\MYFPS\\Source\\MYFPSEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
