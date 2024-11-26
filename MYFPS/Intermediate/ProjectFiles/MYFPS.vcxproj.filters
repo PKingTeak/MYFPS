@@ -30,10 +30,10 @@
     <Filter Include="Source\MYFPS">
       <UniqueIdentifier>{37BDB264-A24C-3E23-925A-C7CB32EA991F}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\MYFPS\FPSGameMode.cpp">
+    <ClCompile Include="..\..\Source\MYFPS\MainPlayLevel_GameMode.cpp">
       <Filter>Source\MYFPS</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\MYFPS\FPSGameMode.h">
+    <ClInclude Include="..\..\Source\MYFPS\MainPlayLevel_GameMode.h">
       <Filter>Source\MYFPS</Filter>
     </ClInclude>
     <None Include="..\..\Source\MYFPS\MYFPS.Build.cs">
@@ -43,6 +43,12 @@
       <Filter>Source\MYFPS</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\MYFPS\MYFPS.h">
+      <Filter>Source\MYFPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MYFPS\PlayerCharacter.cpp">
+      <Filter>Source\MYFPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MYFPS\PlayerCharacter.h">
       <Filter>Source\MYFPS</Filter>
     </ClInclude>
   </ItemGroup>

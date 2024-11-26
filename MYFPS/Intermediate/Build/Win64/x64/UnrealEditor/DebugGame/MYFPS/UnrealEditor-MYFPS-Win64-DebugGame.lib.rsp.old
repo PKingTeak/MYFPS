@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MYFPS-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\code\MYFPS\MYFPS\Intermediate\Build\Win64\x64\MYFPSEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"C:\code\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MYFPS\MYFPS.init.gen.cpp.obj"
+"C:\code\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MYFPS\PlayerCharacter.gen.cpp.obj"
+"C:\code\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MYFPS\MYFPS.cpp.obj"
+"C:\code\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MYFPS\PlayerCharacter.cpp.obj"
+"C:\code\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MYFPS\Default.rc2.res"
+/OUT:"C:\code\MYFPS\MYFPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MYFPS\UnrealEditor-MYFPS-Win64-DebugGame.lib"
